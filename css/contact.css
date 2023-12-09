@@ -1,5 +1,5 @@
 body {
-   background-image: url("https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600");
+   background-color: lime;
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -7,7 +7,7 @@ body {
 
 h1{
     font-size: 250%;
-    color: rgb(146, 24, 24);
+    color: rgb(14, 10, 232);
     font-style: italic;
 }
 p {
@@ -16,7 +16,7 @@ p {
 }
 
 h3 {
-    color: red;
+    color: rgb(7, 75, 236);
     font-size: 200%;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -41,10 +41,9 @@ h3 {
     background-color: rgb(7, 241, 78);
     margin-top: 40%;
 }
-
-@media screen and (max-width: 500px) {
-    
+@media screen and (max-width: 400px) {
     body {
-        background-color: blue;
+      background-color: rgb(245, 3, 3);
     }
-}
+  }
+  
