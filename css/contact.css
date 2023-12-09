@@ -11,5 +11,33 @@ h1{
     font-style: italic;
 }
 p {
+   font-size: 150%;
+
+}
+
+h3 {
+    color: red;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#phoneid{
+    color: beige;
+    font-size: 150%;
+    font-weight: bold;
+}
+#Twitterid {
+    color: beige;
+    font-size: 150%;
+    font-weight: bold;
+}
+#adressid footer Address{
+    flex-direction: column;
+    display: flex;
+    text-align: center; 
+    color: blue;
+    margin-bottom: -1%;
+    font-size: 150%;
     
+    background-color: beige;
+    margin-top: 40%;
 }
