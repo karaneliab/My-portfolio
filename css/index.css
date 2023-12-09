@@ -1,0 +1,46 @@
+nav {
+    background-color: rgb(255, 102, 0);
+    text-align-last: right;
+    font-size: 100%;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px) {
+    body {
+        background-color: blue;
+    }
+    nav a {
+    float: none;
+    width: 100%;
+    }
+}
+
+

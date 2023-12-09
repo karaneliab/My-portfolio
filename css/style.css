@@ -5,7 +5,7 @@ body {
 }
 #educationid h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 150%;
+    font-size: 170%;
     font-style: oblique;
     font-weight: bold;
     text-align: center;
@@ -13,7 +13,7 @@ body {
     /* background-color: rgb(127, 197, 15); */
 }
 #educationid p {
-    font-size: 120%;
+    font-size: 130%;
     text-align: center;
     font-family: sans-serif;
 
@@ -21,7 +21,7 @@ body {
 
 #passionid h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 150%;
+    font-size: 170%;
     font-style: oblique;
     font-weight: bold;
     text-align: center;
@@ -30,7 +30,7 @@ body {
 }
 #Footballid h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 150%;
+    font-size: 170%;
     font-style: oblique;
     font-weight: bold;
     text-align: center;
@@ -40,7 +40,7 @@ body {
 
 #connectid h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 150%;
+    font-size: 170%;
     font-style: oblique;
     font-weight: bold;
     text-align: center;
@@ -48,18 +48,22 @@ body {
     /* background-color: rgb(127, 197, 15); */
 }
 #passionid p {
-    font-size: 120%;
+    font-size: 130%;
     text-align: center;
     font-family: sans-serif;
 }
 #Footballid p {
-    font-size: 120%;
+    font-size: 130%;
     text-align: center;
     font-family: sans-serif;
 }
 #connectid p {
-    font-size: 120%;
+    font-size: 130%;
     text-align: center;
     font-family: sans-serif;
 }
-
+@media screen and (max-width: 500px) {
+    body {
+        background-color: blue;
+    }
+}
