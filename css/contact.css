@@ -41,6 +41,16 @@ h3 {
     background-color: rgb(7, 241, 78);
     margin-top: 40%;
 }
+
+button{
+    color: #25008b;
+    font-size: 100%;
+    background-color: rgb(237, 13, 13);
+    font-weight: bold;
+    font-style: oblique;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
 @media screen and (max-width: 400px) {
     body {
       background-color: rgb(245, 3, 3);
