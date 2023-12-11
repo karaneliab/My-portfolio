@@ -10,12 +10,17 @@ body {
     font-weight: bold;
     text-align: center;
     padding: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+
     /* background-color: rgb(127, 197, 15); */
 }
 #educationid p {
     font-size: 130%;
     text-align: center;
     font-family: sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
 
 }
 
@@ -26,6 +31,9 @@ body {
     font-weight: bold;
     text-align: center;
     padding: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+
     /* background-color: rgb(127, 197, 15); */
 }
 #Footballid h2 {
@@ -35,6 +43,9 @@ body {
     font-weight: bold;
     text-align: center;
     padding: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+
     /* background-color: rgb(127, 197, 15); */
 }
 
@@ -45,22 +56,34 @@ body {
     font-weight: bold;
     text-align: center;
     padding: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+
     /* background-color: rgb(127, 197, 15); */
 }
 #passionid p {
     font-size: 130%;
     text-align: center;
     font-family: sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+
 }
 #Footballid p {
     font-size: 130%;
     text-align: center;
     font-family: sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+
 }
 #connectid p {
     font-size: 130%;
     text-align: center;
     font-family: sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+
 }
 @media screen and (max-width: 500px) {
     body {
