@@ -50,6 +50,7 @@ button{
     font-style: oblique;
     
     font-family: 'Times New Roman', Times, serif;
+    float: right;
 }
 @media screen and (max-width: 400px) {
     body {
