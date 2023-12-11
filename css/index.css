@@ -58,13 +58,13 @@ h2{
     body {
         background-color: blue;
     }
-    nav a {
+    /* nav a {
     float: none;
     width: 100%;
     background-color: blanchedalmond;
     padding: 0%;
     flex-direction: column;
-    }
+    } */
 }
 
 
