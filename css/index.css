@@ -5,7 +5,29 @@ nav {
     font-weight: bold;
     color: black;
 }
+body {
+    background-color: aqua;
+    margin: 0; 
+}
 
+p {
+    padding-right: 50%;
+    padding-top: 0%;
+    margin-bottom: -200px;
+    text-align: center;
+    font-size: 110%;
+}
+
+img {
+    width: 20%; 
+    height: 20%; 
+    border-radius: 50%; 
+    display: block;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px; 
+    margin-bottom: 0;
+}
 
 
 
@@ -40,6 +62,8 @@ nav {
     nav a {
     float: none;
     width: 100%;
+    background-color: blanchedalmond;
+    padding: 0%;
     }
 }
 
